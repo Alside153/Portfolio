@@ -16,7 +16,7 @@ const handleWhatsappClick = () => {
   );
 };
 const handleGithubClick = () => {
-  window.open("https://github.com/Alside153/General", "_blank");
+  window.open("https://github.com/Alside153", "_blank");
 };
 
 const EndOfPage = () => {
