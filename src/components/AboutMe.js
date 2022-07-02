@@ -5,9 +5,10 @@ const AboutMe = () => {
         <div className="AboutMeTitle">Hey, I'm Shlomo, Nice to meet you. </div>
         <div className="AboutMeDescription">
           <span>
-            I'm a starting Fullstack developer, working to achieve my dream of
-            becoming a professional developer and to work under a good company
-            towards a better future.
+            I've started my journey 8 months ago, I've done projects solo and
+            collaborated with people. Developed Apps and Websites. I'm quietly
+            confident, naturally curious, and perpetually working on improving
+            my chops one design problem at a time.
           </span>
         </div>
       </div>
